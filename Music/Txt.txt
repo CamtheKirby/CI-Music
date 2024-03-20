@@ -1,1 +1,1 @@
-4
+["https://raw.githubusercontent.com/CamtheKirby/CI-Music/main/Music/OMFG%20-%20Hello.mp3", "https://raw.githubusercontent.com/CamtheKirby/CI-Music/main/Music/Undertale%20OST%20-%20Shop.mp3", "https://raw.githubusercontent.com/CamtheKirby/CI-Music/main/Music/Kirby's%20Adventure%20(NES)%20Music%20-%20Butter%20Building.mp3", "https://raw.githubusercontent.com/CamtheKirby/CI-Music/main/Music/BFDI%20OST_%20Tid%20(cleaner).mp3", "https://raw.githubusercontent.com/CamtheKirby/CI-Music/main/Music/ANIMATIC%20BATTLE%20-%20dizzy%20and%20done.mp3"]
